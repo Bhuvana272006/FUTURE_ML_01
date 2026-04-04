@@ -32,7 +32,7 @@ It predicts sales based on input features like quantity, discount, profit, and d
 
   Streamlit app link here   https://stores-sales-forecasting.streamlit.app/
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository
 2. Install dependencies:
